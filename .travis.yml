@@ -17,5 +17,5 @@ script:
 deploy:
   provider: heroku
   api_key: 
-    secure: $HEROKU_API_KEY
+    secure: "0898daef-d434-472e-b549-5fc768678369"
   app: undrtkr-labdevops
